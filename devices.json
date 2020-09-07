@@ -102,14 +102,16 @@
                     }
 
                 }
+            },
+            "Phones": {
+                "Liquid Z6": {
+                    "Price": "£50",
+                    "Release Date": "August 2016",
+                    "Dimensions": "145.50 x 72.50 x 8.50",
+                    "Battery Capacity": "200 mAh",
+                    "Removable Battery": false
+                }
             }
-
-
-        },
-
-        "Phones": {
-
         }
-
     }
 }]
