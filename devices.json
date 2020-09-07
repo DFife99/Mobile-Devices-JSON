@@ -1,59 +1,115 @@
-[{ 
-"Devices":{
-"Acer" : {
-"Tablets":{
-"Acer Chromebook Tab 10" : {
-"OS" : "Chrome Os",
-"Processor" : {
-"Manufacturer":"ARM",
-"Type":"Cortex A72",
-"Speed":"2 GHz",
-"Core":"Dual-Core (2 Core)"
-}
-"Display":{
-"Screen":{
-"Size":'24.6cm (9.7")',
-"Type":"Active Matrix TFT Colour LCD",
-"Technology":"In-plane Switching (IPS) Technology",
-"Mode":"QXGA",
-"Backlight":"LED"
-}
-"Touchscreen":"Yes",
-"Resolution":"2048 x 1536"
-},
-"Memory":{
-"Storage":"4GB",
-"Technogy":"LPDDR3",
-"Card Reader":true,
-"Card Supported":"microSD"
-},
-"Storage Capacity":"32 GB",
-"Network":{
-"Wireless":"IEEE 802.11ac",
-"Bluetooth":"4.1"
-},
-"Built-in Devices":{
-"Microphone":true,
-"Fingerprint Reader":false,
-"Number of speakers":"2"
-},
-"Ports":"USB Type-C",
-"Battery":{
-"Cells":"2",
-"Chemistry","Lithium Ion (Li-Ion)",
-"Capacity":"4500 mAh"
-}
-}
+[{
+    "Devices": {
+        "Acer": {
+            "Tablets": {
+                "Acer Chromebook Tab 10": {
+                    "Price": "£300",
+                    "OS": "Chrome Os",
+                    "Processor": {
+                        "Manufacturer": "ARM",
+                        "Type": "Cortex A72",
+                        "Speed": "2 GHz",
+                        "Core": "Dual-Core (2 Core)"
+                    },
+                    "Display": {
+                        "Screen": {
+                            "Size": "24.6cm (9.7')",
+                            "Type": "Active Matrix TFT Colour LCD",
+                            "Technology": "In-plane Switching (IPS) Technology",
+                            "Mode": "QXGA",
+                            "Backlight": "LED"
+                        },
+                        "Touchscreen": "Yes",
+                        "Resolution": "2048 x 1536"
+                    },
+                    "Memory": {
+                        "Storage": "4GB",
+                        "Technogy": "LPDDR3",
+                        "Card Reader": true,
+                        "Card Supported": "microSD"
+                    },
+                    "Storage Capacity": "32 GB",
+                    "Network": {
+                        "Wireless": "IEEE 802.11ac",
+                        "Bluetooth": "4.1"
+                    },
+                    "Built-in Devices": {
+                        "Microphone": true,
+                        "Fingerprint Reader": false,
+                        "Number of speakers": "2"
+                    },
+                    "Ports": "USB Type-C",
+                    "Battery": {
+                        "Cells": "2",
+                        "Chemistry": "Lithium Ion (Li-Ion)",
+                        "Capacity": "4500 mAh"
+                    }
+                },
+                "Acer Iconia Talk S": {
+                    "Price": "£280",
+                    "Release": "August 2016",
+                    "Body": {
+                        "Dimensions": "191.70mm x 101.00mm x 9.35mm",
+                        "Weight": "260g"
+                    },
+                    "Battery": {
+                        "Capacity": "3400 mAh",
+                        "Removable": false
+                    },
+                    "Display": {
+                        "Screen Size": "7 Inches",
+                        "Touchscreen": false,
+                        "Resolution": "1280 x 800 pixels"
+                    },
+                    "Hardware": {
+                        "Processor": "1.3GHz quad-core",
+                        "Processor Make": "MediaTek MT8735",
+                        "RAM": "2GB",
+                        "Storage": {
+                            "Internal": "32GB",
+                            "Expandable": true,
+                            "Expandable Type": "microSD",
+                            "Expandable Amount": "Up to 128GB"
+                        }
+                    },
+                    "Camera": {
+                        "Rear": "13-megapixel",
+                        "Front": "2-megapixel"
+                    },
+                    "OS": "Android 6.0",
+                    "Connectivity": {
+                        "Wifi": true,
+                        "Wifi Standards": "802.11 b/g/n",
+                        "Wifi-Direct": false,
+                        "GPS": false,
+                        "Bluetooth": true,
+                        "Bluetooth Version": "4.00",
+                        "NFC": false,
+                        "Infared": false,
+                        "USB OTG": false,
+                        "Headphones": "3.5mm",
+                        "FM": false,
+                        "Mobile High-Definition Link (MHL)": false
+                    },
+                    "Sensors": {
+                        "Compass": false,
+                        "Proximity": true,
+                        "Accelerometer": true,
+                        "Ambient Light": true,
+                        "Gyroscope": false,
+                        "Barometer": false,
+                        "Temperature": false
+                    }
+
+                }
+            }
 
 
-},
+        },
 
-"Phones":{
-"Acer Iconia Talk S":{
+        "Phones": {
 
-}
-}
+        }
 
-}
-}
+    }
 }]
