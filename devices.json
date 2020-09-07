@@ -1,0 +1,28 @@
+[{
+    "acer": {
+        "Acer Chromebook Tab 10": {
+            "OS": "Chrome OS",
+            "Processor": {
+                "Manufacturer": "ARM",
+                "Type": "Cortex A72",
+                "Speed": "2 GHz",
+                "Core": "Dual-Core (2 Core)"
+            },
+            "Display": {
+                "Screen": {
+                    "Size": "24.6cm (9.7')",
+                    "Type": "Active Matrix TFT Colour LCD",
+                    "Mode": "QXGA",
+                    "Backlight": "LED",
+                    "Touchscreen": true,
+                    "Resolution": "2048 x 1536"
+                },
+                "Graphics": {
+                    "Controller Manufacturer": "ARM",
+                    "Controller Model": "Mail-T864",
+                    "Memory": "LPDDR3",
+                }
+            },
+        },
+    },
+}]
