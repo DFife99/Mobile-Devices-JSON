@@ -1,28 +1,59 @@
-[{
-    "acer": {
-        "Acer Chromebook Tab 10": {
-            "OS": "Chrome OS",
-            "Processor": {
-                "Manufacturer": "ARM",
-                "Type": "Cortex A72",
-                "Speed": "2 GHz",
-                "Core": "Dual-Core (2 Core)"
-            },
-            "Display": {
-                "Screen": {
-                    "Size": "24.6cm (9.7')",
-                    "Type": "Active Matrix TFT Colour LCD",
-                    "Mode": "QXGA",
-                    "Backlight": "LED",
-                    "Touchscreen": true,
-                    "Resolution": "2048 x 1536"
-                },
-                "Graphics": {
-                    "Controller Manufacturer": "ARM",
-                    "Controller Model": "Mail-T864",
-                    "Memory": "LPDDR3",
-                }
-            },
-        },
-    },
+[{ 
+"Devices":{
+"Acer" : {
+"Tablets":{
+"Acer Chromebook Tab 10" : {
+"OS" : "Chrome Os",
+"Processor" : {
+"Manufacturer":"ARM",
+"Type":"Cortex A72",
+"Speed":"2 GHz",
+"Core":"Dual-Core (2 Core)"
+}
+"Display":{
+"Screen":{
+"Size":'24.6cm (9.7")',
+"Type":"Active Matrix TFT Colour LCD",
+"Technology":"In-plane Switching (IPS) Technology",
+"Mode":"QXGA",
+"Backlight":"LED"
+}
+"Touchscreen":"Yes",
+"Resolution":"2048 x 1536"
+},
+"Memory":{
+"Storage":"4GB",
+"Technogy":"LPDDR3",
+"Card Reader":true,
+"Card Supported":"microSD"
+},
+"Storage Capacity":"32 GB",
+"Network":{
+"Wireless":"IEEE 802.11ac",
+"Bluetooth":"4.1"
+},
+"Built-in Devices":{
+"Microphone":true,
+"Fingerprint Reader":false,
+"Number of speakers":"2"
+},
+"Ports":"USB Type-C",
+"Battery":{
+"Cells":"2",
+"Chemistry","Lithium Ion (Li-Ion)",
+"Capacity":"4500 mAh"
+}
+}
+
+
+},
+
+"Phones":{
+"Acer Iconia Talk S":{
+
+}
+}
+
+}
+}
 }]
